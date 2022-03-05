@@ -1,0 +1,34 @@
+header{
+    width: 100%;
+    height: 56px;
+    background-color: #FF9141;
+}
+h1{
+    position: absolute;
+    padding: 3px;
+    float: left;
+    margin-left : 2%;
+    margin-top: 6px;
+    font-family: 'Rancho', cursive;
+    color: rgb(66, 66, 66);
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 6px;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Rambla', sans-serif;
+    font-size: 1.2vw;
+}
+a:hover {
+    color:aquamarine;
+    transition: 0.5;
+}
